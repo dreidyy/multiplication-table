@@ -1,4 +1,4 @@
-# multiplication-table
+# Multiplication Table
 
 This application is created in C# language. which shows the multiplication tables of the number entered in the texbox
 
